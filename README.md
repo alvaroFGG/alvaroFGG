@@ -23,7 +23,7 @@ I've been developing webs and other apps since I started a Vocational Training C
 ### Contact me
 
 <p>
-  <a href="https://www.linkedin.com/in/afuentenebrogomez/" Target="_blank" ><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" /></a>
+  <a href="https://www.linkedin.com/in/afuentenebrogomez/" target="_blank" ><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" /></a>
 </p>
 
 
