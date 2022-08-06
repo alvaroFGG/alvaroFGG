@@ -1,5 +1,5 @@
 # Álvaro Fuentenebro
-I am 20 years old and I am from Spain. I've been developing webs and other apps since I started a Vocational Training Course about Software Developement. I've worked for a couple of international companies like NTT Data as a programmer. I recently did a Bootcamp about Front-End where I improved my programming skills and I learned about Angular and React.
+I've been developing webs and other apps since I started a Vocational Training Course about Software Developement. I've worked for a couple of international companies like NTT Data as a programmer. I recently did a Bootcamp about Front-End where I improved my programming skills and I learned about Angular and React.
 
 ### Stack
 <p>
