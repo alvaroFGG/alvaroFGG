@@ -32,5 +32,5 @@ https://my-portfolio-two-omega.vercel.app/
 
 ###
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvaroFGG&show_icons=true&theme=default)
+![alvaroFGG github stats](https://github-readme-stats.vercel.app/api?username=alvaroFGG&show_icons=true&theme=default)
 
