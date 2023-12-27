@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Álvaro Fuentenebro</h1>
 <h3 align="center">A passionate Full Stack developer from Spain</h3>
 
-- 🔭 I’m currently working for Ufounders [https://ufounders.com](https://ufounders.com)
+- 🔭 I’m currently working for Yotramito
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-two-omega.vercel.app/](https://my-portfolio-two-omega.vercel.app/)
 
-- 💬 Ask me about **react, next, mongodb, node**
+- 💬 Ask me about **react, next, mongodb, node, cloud**
 
 - 📫 How to reach me **alvarofuentenebrogomez@gmail.com**
 
